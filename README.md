@@ -1,2 +1,2 @@
 # It's Rushi
-This is my PYTHON portfolio website.
+This is my <u>PYTHON</u> portfolio website.
